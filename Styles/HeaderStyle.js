@@ -80,7 +80,7 @@ export const Modal = styled.button`
   @media only screen and (max-width: 600px) {
     display: flex;
     background-color: transparent;
-    color: blue;
+    color: black;
     border: none;
     font-size: 1.4em;
     position: relative;
