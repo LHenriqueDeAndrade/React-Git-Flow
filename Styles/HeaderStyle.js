@@ -36,7 +36,8 @@ export const miniMenu = styled.nav`
   }
   li {
     font-size: 1.8em;
-    margin-left: 6vw;
+    margin-left: 4.6vw;
+    border: solid transparent;
   }
   @media only screen and (max-width: 600px) {
     font-size: 0.3em;
@@ -99,7 +100,7 @@ export const Menu = styled.nav`
   ul {
     display: flex;
     position: absolute;
-    left: 49.4vw;
+    left: 47vw;
     & :hover {
       background-color: #e9ec8a;
       border: solid;
@@ -109,6 +110,7 @@ export const Menu = styled.nav`
   li {
     font-size: 1.8em;
     margin-left: 6vw;
+    border: solid transparent;
   }
   @media only screen and (max-width: 600px) {
     font-size: 0.3em;

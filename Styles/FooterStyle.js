@@ -116,6 +116,7 @@ export const footerMenu = styled.ul`
     font-size: 1.2em;
     margin-left: 4vw;
     cursor: pointer;
+    border: solid transparent;
   }
   @media only screen and (max-width: 600px) {
     display: inline-block;
